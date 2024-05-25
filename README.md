@@ -2,7 +2,7 @@
 
 ```Computer Engineer``` ```Trainee```
 
-Computer Engineering student in my final semester at Birzeit University. I am currently training to become a full-stack developer and DevOps engineer. Interested in microcontrollers and computer networks.
+Computer Engineering student in my final semester at Birzeit University. I am currently training to become a full-stack developer and DevOps engineer. Interested in microcontrollers and computer networks & Ai.
 
 <p align="left">
   <a href="https://mabushelbaia.me">
