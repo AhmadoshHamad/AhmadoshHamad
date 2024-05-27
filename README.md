@@ -2,12 +2,10 @@
 
 ```Computer Engineer``` ```Trainee```
 
-Computer Engineering student in my final semester at Birzeit University. I am currently training to become a full-stack developer and DevOps engineer. Interested in microcontrollers and computer networks & Ai.
+Computer Engineering student in my final semester at Birzeit University. I am currently training to become a backend developer. Interested in microcontrollers, computer networks & Ai.
 
 <p align="left">
-  <a href="https://mabushelbaia.me">
-    <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=71122"/>
-    </a>
+  
   <a href="https://github.com/AhmadoshHamad?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AhmadoshHamad?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=71122"/>
   </a>
