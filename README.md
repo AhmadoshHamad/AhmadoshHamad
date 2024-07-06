@@ -2,7 +2,7 @@
 
 ```Computer Engineer``` ```Trainee```
 
-Computer Engineering student in my final semester at Birzeit University. I am currently training to become a backend developer. Interested in microcontrollers, computer networks & Ai.
+Computer Engineering student in my final year at Birzeit University. I am currently training to become a backend developer. Interested in microcontrollers, computer networks & Ai.
 
 <p align="left">
   
