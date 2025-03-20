@@ -24,7 +24,7 @@ Computer Engineering student in my final semester at Birzeit University. I am a 
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,php,laravel,html,css,js,bootstrap,vscode,c,linux,python,java,bash,docker">
+    <img src="https://skillicons.dev/icons?i=git,cpp,php,laravel,html,css,js,bootstrap,tailwind,c,linux,python,java,bash,docker">
 </p>
 
 
