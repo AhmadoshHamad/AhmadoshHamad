@@ -17,6 +17,9 @@ Computer Engineering student in my final semester at Birzeit University. I am a 
 
 ---
 
+### LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmadosh?ext=contest)
+
 
 ### 💻 Languages and Tools
 
