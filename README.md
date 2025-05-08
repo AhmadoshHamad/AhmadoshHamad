@@ -1,6 +1,6 @@
 ## 👋 Ahmad Hamad  أحمد حمد 
 
-```Computer Engineer``` ```Trainee```
+```Computer Engineer``` ```Trainee```  ```Graduate```
 
 Computer Engineering student in my final semester at Birzeit University. I am a backend developer. Interested in microcontrollers, computer networks & Ai.
 
