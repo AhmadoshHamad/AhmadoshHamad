@@ -2,7 +2,7 @@
 
 ```Computer Engineer``` ```Trainee```  ```Graduate```
 
-Graduate Computer Engineering from Birzeit University. I am a backend developer. Interested in software engineering microcontrollers, computer networks & Ai.
+Graduate Computer Engineering from Birzeit University. I am a backend engineer. Interested in software engineering microcontrollers, computer networks & Ai.
 
 <p align="left">
   
