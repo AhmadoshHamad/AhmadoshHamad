@@ -2,35 +2,17 @@
 
 ```Computer Engineer``` ```DevSecOps Enigneer```  ```Graduate```
 
-I am a DevSecOps Engineer at Harri and a Computer Engineering graduate from Birzeit University. I bridge the gap between robust backend development and secure, scalable operations.
+I am a DevSecOps Engineer at Harri and a Computer Engineering graduate from Birzeit University. I specialize in bridging the gap between robust backend development and secure, scalable operations, focusing on building distributed systems that are as secure as they are efficient.
 
-🚀 Professional Background
-Current Role: DevSecOps Engineer @ Harri.
+Expertise: Backend Engineering, Infrastructure as Code (Terraform), and Security Automation (CI/CD).
 
-- Core Expertise: Backend Engineering, Infrastructure as Code (IaC), and Security Automation.
+- Tech Stack: Python, Bash, Java, C/C++, PHP, and JavaScript.
+
+- Cloud & Ops: Docker, Kubernetes, and GitHub Actions.
+
+- Interests: Microcontrollers (Arduino/ESP32), Computer Networks, and AI integration in DevOps.
 
 - Education: B.Sc. in Computer Engineering from Birzeit University.
-
-🧠 Areas of Interest
-- Software Engineering: Building scalable, maintainable distributed systems.
-
-- Microcontrollers: Exploring the intersection of hardware and low-level programming.
-
-- Computer Networks: Deep-diving into protocols and secure network architecture.
-
-- Artificial Intelligence: Integrating AI/ML workflows into DevOps pipelines.
-
-🛠️ Tech Stack & Tools
-- Languages: Python, Bash, , Java, C/C++, PHP, JS.
-
-DevOps/Security: Docker, Kubernetes, terraform, github actions CI/CD pipelines.
-
-Hardware: Arduino, ESP32, Raspberry Pi.
-
-🤝 Connect with Me
-- Organization GitHub: [Ahmadosh-Hamad](github.com/Ahmadosh-Hamad)
-
-- LinkedIn: [Your Profile Link Here]
 <p align="left">
   
   <a href="https://github.com/AhmadoshHamad?tab=repositories&sort=stargazers">
