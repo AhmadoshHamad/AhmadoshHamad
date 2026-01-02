@@ -1,9 +1,36 @@
 ## 👋 Ahmad Hamad  أحمد حمد 
 
-```Computer Engineer``` ```Trainee```  ```Graduate```
+```Computer Engineer``` ```DevSecOps Enigneer```  ```Graduate```
 
-Graduate Computer Engineering from Birzeit University. I am a backend engineer. Interested in software engineering microcontrollers, computer networks & Ai.
+I am a DevSecOps Engineer at Harri and a Computer Engineering graduate from Birzeit University. I bridge the gap between robust backend development and secure, scalable operations.
 
+🚀 Professional Background
+Current Role: DevSecOps Engineer @ Harri.
+
+Core Expertise: Backend Engineering, Infrastructure as Code (IaC), and Security Automation.
+
+Education: B.Sc. in Computer Engineering from Birzeit University.
+
+🧠 Areas of Interest
+Software Engineering: Building scalable, maintainable distributed systems.
+
+Microcontrollers: Exploring the intersection of hardware and low-level programming.
+
+Computer Networks: Deep-diving into protocols and secure network architecture.
+
+Artificial Intelligence: Integrating AI/ML workflows into DevOps pipelines.
+
+🛠️ Tech Stack & Tools
+Languages: Python, Go, Java (or your preferred backend languages).
+
+DevOps/Security: Docker, Kubernetes, CI/CD pipelines, Cloud Security.
+
+Hardware: Arduino, ESP32, Raspberry Pi.
+
+🤝 Connect with Me
+Organization GitHub: [Ahmadosh-Hamad](github.com/Ahmadosh-Hamad)
+
+LinkedIn: [Your Profile Link Here]
 <p align="left">
   
   <a href="https://github.com/AhmadoshHamad?tab=repositories&sort=stargazers">
