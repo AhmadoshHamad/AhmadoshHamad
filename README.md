@@ -8,7 +8,7 @@ Expertise: Backend Engineering, Infrastructure as Code (Terraform), and Security
 
 - Tech Stack: Python, Bash, Java, C/C++, PHP, and JavaScript.
 
-- Cloud & Ops: Docker, Kubernetes, and GitHub Actions.
+- Cloud & Ops: AWS, Docker, Kubernetes, and GitHub Actions.
 
 - Interests: Microcontrollers (Arduino/ESP32), Computer Networks, and AI integration in DevOps.
 
