@@ -26,9 +26,19 @@ Expertise: Backend Engineering, Infrastructure as Code (Terraform), and Security
 
 ---
 
-### LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmadosh?ext=contest)
-
+<table>
+  <tr>
+    <td>
+     <h3>LeetCode</h3>
+      <img src="https://leetcard.jacoblin.cool/Ahmadosh?ext=contest" alt="LeetCode Stats"></td>
+    <td align="center">
+      <h3>Terraform Associate 004</h3>
+      <a href="https://www.credly.com/badges/4cf8ff15-a8d4-4030-8823-522c5e71e8f3/public_url">
+        <img src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/linkedin_thumb_blob" alt="Terraform Associate">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 💻 Languages and Tools
 
