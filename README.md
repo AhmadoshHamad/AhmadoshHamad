@@ -25,6 +25,7 @@ Expertise: Backend Engineering, Infrastructure as Code (Terraform), and Security
 </p>
 
 ---
+### Badges & Certifications
 
 <table>
   <tr>
