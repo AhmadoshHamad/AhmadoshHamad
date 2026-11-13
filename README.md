@@ -71,6 +71,8 @@ Personal: [@AhmadoshHamad](https://github.com/AhmadoshHamad) · Work: [@Ahmadosh
 
 ---
 
+### 📈 Personal activity
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmadoshHamad&theme=vue-dark&hide_border=true&background=00000000">
@@ -82,4 +84,21 @@ Personal: [@AhmadoshHamad](https://github.com/AhmadoshHamad) · Work: [@Ahmadosh
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadoshHamad/AhmadoshHamad/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadoshHamad/AhmadoshHamad/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmadoshHamad/AhmadoshHamad/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 💼 Work activity
+
+Contributions from my work account, [@Ahmadosh-Hamad](https://github.com/Ahmadosh-Hamad), mostly in private repositories at Harri.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ahmadosh-Hamad&theme=vue-dark&hide_border=true&background=00000000">
+    <img alt="Work account contribution streak" src="https://streak-stats.demolab.com?user=Ahmadosh-Hamad&hide_border=true&background=00000000">
+  </picture>
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadosh-Hamad/Ahmadosh-Hamad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmadosh-Hamad/Ahmadosh-Hamad/output/github-contribution-grid-snake.svg">
+  <img alt="Work account contribution snake animation" src="https://raw.githubusercontent.com/Ahmadosh-Hamad/Ahmadosh-Hamad/output/github-contribution-grid-snake.svg">
 </picture>
