@@ -83,7 +83,7 @@ Personal: [@AhmadoshHamad](https://github.com/AhmadoshHamad) · Work: [@Ahmadosh
   </picture>
 </p>
 
-<!-- per-account:start (the sync workflow points this block at the work account) -->
+<!-- per-account:start (the work profile's sync workflow points this block at the work account) -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadoshHamad/AhmadoshHamad/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadoshHamad/AhmadoshHamad/output/github-contribution-grid-snake.svg">
