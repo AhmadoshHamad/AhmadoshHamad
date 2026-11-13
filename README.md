@@ -73,13 +73,8 @@ Personal: [@AhmadoshHamad](https://github.com/AhmadoshHamad) · Work: [@Ahmadosh
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=AhmadoshHamad&show_icons=true&include_all_commits=false&bg_color=00000000&theme=vue-dark&icon_color=58a6ef&hide_border=true&rank_icon=percentile" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadoshHamad&show_icons=true" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadoshHamad&layout=compact&theme=vue-dark&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=721222" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadoshHamad&layout=compact&langs_count=10&theme=vue-dark&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadoshHamad&layout=compact&langs_count=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmadoshHamad&theme=vue-dark&hide_border=true&background=00000000">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=AhmadoshHamad&hide_border=true&background=00000000">
   </picture>
 </p>
 
